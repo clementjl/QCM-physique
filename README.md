@@ -1,4 +1,4 @@
-[Code qcm final.html](https://github.com/user-attachments/files/23115039/Code.qcm.final.html)
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
